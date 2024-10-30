@@ -26,7 +26,7 @@ EXPORT RAW "filename" -> same shit ale ak je niečo formula tak to exportne ten 
 
 PRINT A1 -> Vytlačí konkrétnu bunku
 PRINT A1:D5 ->Vytlači bunky z tohoto rozsahu
-PRINT RAW <adresa/rozsah> -> same shit ale namiesto výsledku vytlačí vzorec
+PRINT RAW <adresa/rozsah> -> same thing ale namiesto výsledku vytlačí vzorec
 PRINT ALL -> naschval nefunguje, použi DUMP ALL
 
 DUMP ALL -> Vypíše úplne všetky bunky.
